@@ -1,0 +1,98 @@
+[
+    {
+        "image": "https://images.pexels.com/photos/20422129/pexels-photo-20422129/free-photo-of-food-on-plate-with-bowls-of-sauces.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Dosa",
+        "price": "50",
+        "rating": "5",
+        "vegOrNonveg": "veg",
+        "starters": "main-course"
+    },
+    {
+        "image": "https://images.pexels.com/photos/4449068/pexels-photo-4449068.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Samosa",
+        "price": "20",
+        "rating": "4.5",
+        "vegOrNonveg": "veg",
+        "starters": "starter"
+    },
+    {
+        "image": "https://images.pexels.com/photos/12737809/pexels-photo-12737809.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Butter Chicken",
+        "price": "250 ",
+        "rating": "4.8",
+        "vegOrNonveg": "non-veg",
+        "starters": "main-course"
+    },
+    {
+        "image": "https://images.pexels.com/photos/10905933/pexels-photo-10905933.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Paneer Tikka",
+        "price": "180",
+        "rating": "4.7",
+        "vegOrNonveg": "veg",
+        "starters": "starter"
+    },
+    {
+        "image": "https://images.pexels.com/photos/9609860/pexels-photo-9609860.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Chicken Biryani",
+        "price": "200",
+        "rating": "4.9",
+        "vegOrNonveg": "non-veg",
+        "starters": "main-course"
+    },
+    {
+        "image": "https://media.istockphoto.com/id/1309964339/photo/rajma-chawal-an-indian-food.jpg?b=1&s=612x612&w=0&k=20&c=FAW4rZ8holhOW97HArF24udskcKX4UvFo4NH2dmFR4M=",
+        "itemName": "Rajma Chawal",
+        "price": "100",
+        "rating": "4.6",
+        "vegOrNonveg": "veg",
+        "starters": "main-course"
+    },
+    {
+        "image": "https://images.pexels.com/photos/12737919/pexels-photo-12737919.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Aloo Paratha",
+        "price": "40",
+        "rating": "4.7",
+        "vegOrNonveg": "veg",
+        "starters": "main-course"
+    },
+    {
+        "image": "https://images.pexels.com/photos/18698241/pexels-photo-18698241/free-photo-of-food-photography.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Fish Fry",
+        "price": "220",
+        "rating": "4.8",
+        "vegOrNonveg": "non-veg",
+        "starters": "starter"
+    },
+    {
+        "image": "https://images.pexels.com/photos/19834445/pexels-photo-19834445/free-photo-of-traditional-indian-dish-with-ingredients-on-table.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Dal Makhani",
+        "price": "150",
+        "rating": "4.9",
+        "veOrNonveg": "veg",
+        "starter": "main-course"
+    },
+    {
+        "image": "https://images.pexels.com/photos/5410400/pexels-photo-5410400.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Pav Bhaji",
+        "price": "80",
+        "rating": "4.6",
+        "vegOrNonveg": "veg",
+        "starters": "main-course"
+    },
+    {
+        "image": "https://images.pexels.com/photos/9646843/pexels-photo-9646843.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Tandoori Chicken",
+        "price": "300 ",
+        "rating": "4.9",
+        "vegOrNonveg": "non-veg",
+        "starters": "starter"
+    },
+    {
+        "image": "https://images.pexels.com/photos/18852549/pexels-photo-18852549/free-photo-of-hand-holding-meal-with-meat-on-bone.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "itemName": "Mutton Rogan Josh",
+        "price": "350 ",
+        "rating": "5",
+        "vegOrNonveg": "non-veg",
+        "starters": "main-course"
+    }
+]
