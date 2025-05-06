@@ -229,7 +229,7 @@ h1 {
 
 .image:hover img{
     cursor: pointer;
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
 
 
